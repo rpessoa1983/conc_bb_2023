@@ -67,10 +67,12 @@ projeto.
 
 5.1 Arquitetura de aplicações em infraestrutura de containers (Docker e Kubernetes). 
 5.2 Arquitetura: Arquitetura de aplicações
-web, modelo MVC, Domain Driven Design (DDD), Arquitetura Hexagonal. 5.3 Arquitetura e desenvolvimento em
+web, modelo MVC, Domain Driven Design (DDD), Arquitetura Hexagonal.
+5.3 Arquitetura e desenvolvimento em
 nuvem. 
 
 6. Soluções de integração entre sistemas. 
+
 6.1 API Rest. 
 
 7. Testes de Software: testes unitários, testes de
@@ -89,7 +91,9 @@ revisão de código.
 10.2 Melhores Práticas de Codificação Segura OWASP.
 
 ### BANCO DE DADOS
+
 1. Bancos de dados relacionais. 
+
 1.1 Sistemas gerenciadores de banco de dados: Oracle DataBase. 
 1.1.1 Conceitos básicos. 
 1.1.2 Noções de Administração. 
