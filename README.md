@@ -39,65 +39,63 @@ qualidade de dados. Processos de qualidade para modelos de dados.
 
 1. Modelagem de Processos de Negócio. 
 
-1.1 Conceitos básicos. 
-1.2 Identificação e delimitação de processos de
+ 1.1 Conceitos básicos. 
+ 1.2 Identificação e delimitação de processos de
 negócio. 
-1.3 Técnicas de mapeamento de processos (modelos AS-IS). 
-1.4 Técnicas de análise e simulação de
+ 1.3 Técnicas de mapeamento de processos (modelos AS-IS). 
+ 1.4 Técnicas de análise e simulação de
 processos. 
-1.5 Construção e mensuração de indicadores de processos. 
-1.6 Técnicas de modelagem de processos
+ 1.5 Construção e mensuração de indicadores de processos. 
+ 1.6 Técnicas de modelagem de processos
 (modelos TO-BE). 
 
 2. Orientação a objetos. 
 
-2.1 Conceitos fundamentais, análise, modelagem e padrões de
+ 2.1 Conceitos fundamentais, análise, modelagem e padrões de
 projeto.
-2.2 Análise e projeto orientados a objetos 
-2.3 Polimorfismo, Herança, Abstração e Encapsulamento. 
+ 2.2 Análise e projeto orientados a objetos 
+ 2.3 Polimorfismo, Herança, Abstração e Encapsulamento. 
 
 3. Gerenciamento do ciclo de vida do software. 
 
 4. Metodologias de desenvolvimento de software. 
  
-4.1 Metodologias ágeis: Scrum, XP, Kanban e TDD. 
-4.2 Qualidade de software. 
+ 4.1 Metodologias ágeis: Scrum, XP, Kanban e TDD. 
+ 4.2 Qualidade de software. 
 
 5 Arquitetura. 
 
-5.1 Arquitetura de aplicações em infraestrutura de containers (Docker e Kubernetes). 
-5.2 Arquitetura: Arquitetura de aplicações
-web, modelo MVC, Domain Driven Design (DDD), Arquitetura Hexagonal.
-5.3 Arquitetura e desenvolvimento em
-nuvem. 
+ 5.1 Arquitetura de aplicações em infraestrutura de containers (Docker e Kubernetes). 
+ 5.2 Arquitetura: Arquitetura de aplicações web, modelo MVC, Domain Driven Design (DDD), Arquitetura Hexagonal.
+ 5.3 Arquitetura e desenvolvimento em nuvem. 
 
 6. Soluções de integração entre sistemas. 
 
-6.1 API Rest. 
+ 6.1 API Rest. 
 
 7. Testes de Software: testes unitários, testes de
 integração, TDD, BDD. 
 
 8. Desenvolvimento. 
 
-8.1 Linguagens: Java (JDK 17) e Javascript (ECMASCript 2021). 
+ 8.1 Linguagens: Java (JDK 17) e Javascript (ECMASCript 2021). 
 
 9. Ferramentas de versionamento GIT. 
  
 10. Segurança no desenvolvimento. 
 
-10.1 Práticas de programação segura e
+ 10.1 Práticas de programação segura e
 revisão de código. 
-10.2 Melhores Práticas de Codificação Segura OWASP.
+ 10.2 Melhores Práticas de Codificação Segura OWASP.
 
 ### BANCO DE DADOS
 
 1. Bancos de dados relacionais. 
 
-1.1 Sistemas gerenciadores de banco de dados: Oracle DataBase. 
-1.1.1 Conceitos básicos. 
-1.1.2 Noções de Administração. 
-1.1.3 SQL (Procedural Language/Structured Query Language). 
+ 1.1 Sistemas gerenciadores de banco de dados: Oracle DataBase. 
+  1.1.1 Conceitos básicos. 
+  1.1.2 Noções de Administração. 
+  1.1.3 SQL (Procedural Language/Structured Query Language). 
 
 2. Banco de dados NoSQL (Key/Value, Orientados a Documentos e Grafos). 
 
@@ -106,59 +104,59 @@ revisão de código.
 4. Arquitetura e aplicações de data warehousing, ETL
 e Olap. 
 
-4.1 Técnicas de modelagem e otimização de bases de dados multidimensionais. 
+ 4.1 Técnicas de modelagem e otimização de bases de dados multidimensionais. 
 
 5. Governança de dados.
 
-5.1 Conceito e noção básica. 
-5.2 Arquitetura de Dados. 
-5.3 Qualidade de Dados. 
-5.4 Metadados.
+ 5.1 Conceito e noção básica. 
+ 5.2 Arquitetura de Dados. 
+ 5.3 Qualidade de Dados. 
+ 5.4 Metadados.
 
 ### INFRAESTRUTURA TECNOLÓGICA
 1. Nuvem. 
 
-1.1 Conceitos: Nuvens pública e privada, IaaS, PaaS, SaaS, workloads. 
-1.2 Estratégias de Migração de Aplicações para o ambiente de nuvem, Governança, Computação Serverless, Segurança Compartilhada.
+ 1.1 Conceitos: Nuvens pública e privada, IaaS, PaaS, SaaS, workloads. 
+ 1.2 Estratégias de Migração de Aplicações para o ambiente de nuvem, Governança, Computação Serverless, Segurança Compartilhada.
 
 2. Devops e DevSecOps. 
 
-2.1 Conceitos. 
-2.2 Práticas. 
-2.3 Ferramentas. 
+ 2.1 Conceitos. 
+ 2.2 Práticas. 
+ 2.3 Ferramentas. 
 
 3. Automação. 
 
-3.1 Desenvolvimento de scripts de automação em Python. 
-3.2 Integração via API REST. 
+ 3.1 Desenvolvimento de scripts de automação em Python. 
+ 3.2 Integração via API REST. 
 
 4. Gestão de Serviços. 
 
-4.1 Conceitos e práticas.
-4.2 ITIL v4: Controle de Mudanças, Gerenciamento de Liberação, Gerenciamento de Incidentes, Gerenciamento
+ 4.1 Conceitos e práticas.
+ 4.2 ITIL v4: Controle de Mudanças, Gerenciamento de Liberação, Gerenciamento de Incidentes, Gerenciamento
 de Problemas e Service Desk. 
 
 5. Forense Computacional: conceitos gerais. 
 
-5.1 Preservação de evidências em
+ 5.1 Preservação de evidências em
 análises forenses. 
 
-5.1.1 Hash de arquivos. 
-5.1.2 Cadeia de custódia. 
+  5.1.1 Hash de arquivos. 
+  5.1.2 Cadeia de custódia. 
 
-5.2 Preservação de evidências durante procedimento de coleta. 
+ 5.2 Preservação de evidências durante procedimento de coleta. 
 
-5.2.1 Espelhamento de discos. 
-5.2.2 Imagem de discos. 
+  5.2.1 Espelhamento de discos. 
+  5.2.2 Imagem de discos. 
 
-5.3 Técnicas Antiforense. 
+ 5.3 Técnicas Antiforense. 
 
-5.3.1 Criptografia. 
-5.3.2 Esteganografia. 
+  5.3.1 Criptografia. 
+  5.3.2 Esteganografia. 
 
-5.4 Sanitização de discos. 
+ 5.4 Sanitização de discos. 
 
-5.4.1 Wipe.
+  5.4.1 Wipe.
 
 ### SEGURANÇA DA INFORMAÇÃO
 
